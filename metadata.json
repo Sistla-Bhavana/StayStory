@@ -1,0 +1,8 @@
+{
+  "name": "Solenne — Architectural Homestays",
+  "description": "Curated architectural homestays with editorial storytelling, real-time availability booking, verified guest reviews, and secure payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
